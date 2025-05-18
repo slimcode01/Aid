@@ -1,0 +1,1 @@
+Decision Aid for Prostate cancer. It assists with treatment to take associated with your risk group which is low, intermediate and high. the system actually recommends the treatment basing or risk group of a patient.
